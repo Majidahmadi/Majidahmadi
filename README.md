@@ -7,4 +7,6 @@
 
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast)](https://www.linkedin.com/in/majid-ahmadi-dev/)
+
+[![Majid's github activity graph](https://activity-graph.herokuapp.com/graph?username=Majidahmadi&theme=react-dark)](https://www.linkedin.com/in/majid-ahmadi-dev/)
