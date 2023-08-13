@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from Iran</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast)](https://www.linkedin.com/in/majid-ahmadi-dev/)
 
