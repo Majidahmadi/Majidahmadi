@@ -8,5 +8,3 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast)](https://www.linkedin.com/in/majid-ahmadi-dev/)
-
-![](https://komarev.com/ghpvc/?username=Majidahmadi&color=blue&style=flat-square&label=PROFILE+VIEWS)
