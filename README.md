@@ -7,4 +7,8 @@
 
 <h3 align="center">A passionate fullstack developer</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast)](https://www.linkedin.com/in/majid-ahmadi-dev/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/majid-ahmadi-dev/">
+    <img src="https://streak-stats.demolab.com?user=majidahmadi&theme=highcontrast" alt="GitHub Streak">
+  </a>
+</div>
